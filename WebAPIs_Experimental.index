@@ -7,9 +7,12 @@ FileSystemDirectoryHandle
 FileSystemFileHandle
 FileSystemHandle
 FileSystemWritableFileStream
+MIDIOutput
 MIDIPort
 PaymentInstruments
 PaymentManager
+RTCEncodedAudioFrame
+RTCEncodedVideoFrame
 TrustedHTML
 TrustedScript
 TrustedScriptURL

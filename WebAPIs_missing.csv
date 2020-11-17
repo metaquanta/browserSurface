@@ -1,0 +1,9 @@
+class	url	obsolete
+XMLHttpRequestUpload	https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/upload
+TextTrackCueList	https://developer.mozilla.org/en-US/docs/Web/API/TextTrack
+Audio	https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
+Image	https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/Image
+Option	https://developer.mozilla.org/en-US/docs/Web/API/HTMLOptionElement/Option
+HTMLCollection	https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
+HTMLFrameElement	https://www.w3.org/2003/01/dom2-javadoc/org/w3c/dom/html2/HTMLFrameElement.html	true
+HTMLDirectoryElement	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dir	true

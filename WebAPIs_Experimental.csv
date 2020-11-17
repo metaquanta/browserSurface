@@ -1,3 +1,4 @@
+class	url
 MIDIOutput	https://webaudio.github.io/web-midi-api/
 MIDIPort	https://webaudio.github.io/web-midi-api/
 FileSystemDirectoryHandle	https://wicg.github.io/file-system-access/
@@ -27,3 +28,5 @@ PaymentManager	https://w3c.github.io/payment-handler/
 CompressionStream	https://wicg.github.io/compression/
 DecompressionStream	https://wicg.github.io/compression/
 U2F	https://fidoalliance.org/specs/fido-u2f-v1.0-ps-20141009/fido-u2f-javascript-api-ps-20141009.html
+RTCEncodedAudioFrame	https://w3c.github.io/webrtc-insertable-streams/
+RTCEncodedVideoFrame	https://w3c.github.io/webrtc-insertable-streams/
