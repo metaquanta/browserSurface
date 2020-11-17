@@ -1,3 +1,4 @@
+global	parent	type	toString
 undefined	[object Window]	undefined	
 globalThis	[object Window]	Window	[object Window]
 Date	[object Window]	Function	function Date() {\n    [native code]\n}

@@ -1,3 +1,4 @@
+global	parent	type	toString
 Object	[object Window]	Function	function Object() { [native code] }
 Function	[object Window]	Function	function Function() { [native code] }
 Array	[object Window]	Function	function Array() { [native code] }
