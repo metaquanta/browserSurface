@@ -46,7 +46,6 @@ indexedDB
 innerHeight
 innerWidth
 isSecureContext
-isSecureContext
 length
 localStorage
 location
