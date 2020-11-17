@@ -22,3 +22,8 @@ XRLayer	https://immersive-web.github.io/layers/
 XRRay	https://immersive-web.github.io/hit-test/
 XRTransientInputHitTestResult	https://immersive-web.github.io/hit-test/
 XRTransientInputHitTestSource	https://immersive-web.github.io/hit-test/
+PaymentInstruments	https://w3c.github.io/payment-handler/
+PaymentManager	https://w3c.github.io/payment-handler/
+CompressionStream	https://wicg.github.io/compression/
+DecompressionStream	https://wicg.github.io/compression/
+U2F	https://fidoalliance.org/specs/fido-u2f-v1.0-ps-20141009/fido-u2f-javascript-api-ps-20141009.html
