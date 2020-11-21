@@ -1,0 +1,4 @@
+property	url
+addEventListener	/en-US/docs/Web/API/EventTarget/addEventListener
+dispatchEvent	/en-US/docs/Web/API/EventTarget/dispatchEvent
+removeEventListener	/en-US/docs/Web/API/EventTarget/removeEventListener
