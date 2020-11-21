@@ -1,0 +1,12 @@
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescription
+webkitMediaStream
+webkitRTCPeerConnection
+webkitResolveLocalFileSystemURL
+webkitSpeechGrammar
+webkitSpeechGrammarList
+webkitSpeechRecognition
+webkitSpeechRecognitionError
+webkitSpeechRecognitionEvent
+webkitURL

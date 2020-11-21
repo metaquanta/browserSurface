@@ -1,0 +1,13 @@
+webkitCancelAnimationFrame	https://developer.mozilla.org/en-US/docs/Web/API/Window/cancelAnimationFrame
+webkitURL	https://developer.mozilla.org/en-US/docs/Web/API/URL
+webkitSpeechRecognitionEvent	https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognitionEvent
+webkitSpeechRecognitionError	https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognitionError	true
+webkitSpeechRecognition	https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+webkitSpeechGrammarList	https://developer.mozilla.org/en-US/docs/Web/API/SpeechGrammarList
+webkitSpeechGrammar	https://developer.mozilla.org/en-US/docs/Web/API/SpeechGrammar
+webkitResolveLocalFileSystemURL	https://developer.mozilla.org/en-US/docs/Web/API/LocalFileSystem	true
+webkitRTCPeerConnection
+webkitMediaStream
+mozRTCIceCandidate
+mozRTCPeerConnection
+mozRTCSessionDescription
