@@ -1,0 +1,7 @@
+prop	url	deprecated
+external	https://developer.mozilla.org/en-US/docs/Web/API/Window/external	true
+content	https://developer.mozilla.org/en-US/docs/Web/API/Window/content	true
+onpagehide	https://developer.mozilla.org/en-US/docs/Web/API/Window	true
+onpageshow	https://developer.mozilla.org/en-US/docs/Web/API/Window	true
+setResizable	https://developer.mozilla.org/en-US/docs/Web/API/Window	true
+defaultStatus	https://developer.mozilla.org/en-US/docs/Web/API/Window/defaultStatus	true
