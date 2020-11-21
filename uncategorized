@@ -1,4 +1,4 @@
 #!/bin/bash
 make indexes
-cat [BW]*.index | sort | uniq > .tmp.index
+cat [BWS]*.index | sort | uniq > .tmp.index
 cat global*.index | sort | uniq | grep -Fxv -f .tmp.index
