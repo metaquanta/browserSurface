@@ -30,3 +30,17 @@ DecompressionStream	https://wicg.github.io/compression/
 U2F	https://fidoalliance.org/specs/fido-u2f-v1.0-ps-20141009/fido-u2f-javascript-api-ps-20141009.html
 RTCEncodedAudioFrame	https://w3c.github.io/webrtc-insertable-streams/
 RTCEncodedVideoFrame	https://w3c.github.io/webrtc-insertable-streams/
+TextEvent	https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html
+TextDecoderStream	https://encoding.spec.whatwg.org/
+TextEncoderStream	https://encoding.spec.whatwg.org/
+RemotePlayback	https://www.w3.org/TR/remote-playback/
+PushSubscriptionOptions	https://w3c.github.io/push-api/
+PerformanceElementTiming	https://wicg.github.io/element-timing/
+OffscreenCanvasRenderingContext2D	https://html.spec.whatwg.org/multipage/canvas.html#the-offscreen-2d-rendering-context
+MediaKeyError	https://www.w3.org/TR/encrypted-media/	missing
+MediaEncryptedEvent	https://www.w3.org/TR/encrypted-media/
+InputDeviceInfo	https://www.w3.org/2019/06/mediacapture-diff.html
+FragmentDirective	https://wicg.github.io/scroll-to-text-fragment/
+EventCounts	https://wicg.github.io/event-timing/
+ElementInternals	https://html.spec.whatwg.org/multipage/custom-elements.html
+
