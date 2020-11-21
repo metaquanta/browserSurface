@@ -1,0 +1,25 @@
+event	url
+onanimationstart	https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onanimationstart
+ondrag
+ondragend
+ondragenter
+ondragexit
+ondragleave
+ondragover
+ondragstart
+ondrop
+onemptied
+onmousewheel
+onprogress
+onratechange
+onseeked
+onseeking
+onshow
+onstalled
+onsuspend
+ontimeupdate
+ontransitionrun
+ontransitionstart
+onvolumechange
+onwaiting
+
