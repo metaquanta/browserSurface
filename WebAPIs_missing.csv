@@ -1,11 +1,8 @@
-class	url	obsolete
-XMLHttpRequestUpload	https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/upload
+class	url	deprecated
 TextTrackCueList	https://developer.mozilla.org/en-US/docs/Web/API/TextTrack
 Audio	https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
 Image	https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/Image
 Option	https://developer.mozilla.org/en-US/docs/Web/API/HTMLOptionElement/Option
-HTMLCollection	https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
-HTMLFrameElement	https://www.w3.org/2003/01/dom2-javadoc/org/w3c/dom/html2/HTMLFrameElement.html	true
 HTMLDirectoryElement	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dir	true
 SVGPointList	https://developer.mozilla.org/en-US/docs/Web/API/SVGAnimatedPoints
 SVGPathSegList	https://developer.mozilla.org/en-US/docs/Web/API/SVGAnimatedPoints
@@ -13,48 +10,11 @@ SVGMarkerElement	https://developer.mozilla.org/en-US/docs/Web/API/SVGAnimatedPoi
 BarProp	https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API
 CanvasCaptureMediaStream	https://developer.mozilla.org/en-US/docs/Web/API/CanvasCaptureMediaStreamTrack
 IDBFileHandle	https://wiki.mozilla.org/WebAPI/FileHandleAPI	true
-HTMLAllCollection	https://developer.mozilla.org/en-US/docs/Web/API/Document/all	true
 DOMRequest	https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/API/DOMRequest	true
-DOMMatrix	https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix
-CSSTranslate	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSTransformValue	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSTransformComponent	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSRotate	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSScale	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSSkew	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSSkewX	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSSkewY	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSPerspective	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSNumericArray	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSMatrixComponent	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSMathInvert	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSMathMax	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSMathMin	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-CSSMathNegate	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 CSSImportRule	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 CSSFontFaceRule	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 CSSFontFeatureValuesRule	https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 CSS2Properties	https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration	true
 CSSMozDocumentRule	https://developer.mozilla.org/en-US/docs/Web/API/CSSRuleList
-External	https://developer.mozilla.org/en-US/docs/Web/API/Window/external	true
 OfflineResourceList	https://developer.mozilla.org/en-US/docs/Web/API/Window/applicationCache	true
-WebKitCSSMatrix	https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix	true
 WebKitMutationObserver	https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver	true
-CSSAnimation	https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/Web_animations_on_large_screen	true
-CSSTransition	https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/Web_animations_on_large_screen	true
-BackgroundFetchManager
-BackgroundFetchRecord
-BackgroundFetchRegistration
-InputDeviceInfo
-MIDIOutput
-MIDIPort
-MediaEncryptedEvent
-MediaEncryptedEvent
-PaymentInstruments
-PaymentManager
-PushSubscriptionOptions
-TextDecoderStream
-TextDecoderStream
-TextEncoderStream
-TextEncoderStream
-USBConnectionEvent
