@@ -1,7 +1,3 @@
-
-BackgroundFetchManager
-BackgroundFetchRecord
-BackgroundFetchRegistration
 CompressionStream
 DecompressionStream
 ElementInternals
@@ -11,21 +7,12 @@ FileSystemFileHandle
 FileSystemHandle
 FileSystemWritableFileStream
 FragmentDirective
-InputDeviceInfo
-MIDIOutput
-MIDIPort
-MediaEncryptedEvent
 MediaKeyError
 OffscreenCanvasRenderingContext2D
-PaymentInstruments
-PaymentManager
 PerformanceElementTiming
-PushSubscriptionOptions
 RTCEncodedAudioFrame
 RTCEncodedVideoFrame
 RemotePlayback
-TextDecoderStream
-TextEncoderStream
 TextEvent
 TrustedHTML
 TrustedScript
@@ -33,7 +20,6 @@ TrustedScriptURL
 TrustedTypePolicy
 TrustedTypePolicyFactory
 U2F
-USBConnectionEvent
 XRAnchor
 XRAnchorSet
 XRDOMOverlayState

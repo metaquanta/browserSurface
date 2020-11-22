@@ -42,3 +42,19 @@ WebKitCSSMatrix	https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix	true
 WebKitMutationObserver	https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver	true
 CSSAnimation	https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/Web_animations_on_large_screen	true
 CSSTransition	https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/Web_animations_on_large_screen	true
+BackgroundFetchManager
+BackgroundFetchRecord
+BackgroundFetchRegistration
+InputDeviceInfo
+MIDIOutput
+MIDIPort
+MediaEncryptedEvent
+MediaEncryptedEvent
+PaymentInstruments
+PaymentManager
+PushSubscriptionOptions
+TextDecoderStream
+TextDecoderStream
+TextEncoderStream
+TextEncoderStream
+USBConnectionEvent
