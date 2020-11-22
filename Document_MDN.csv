@@ -1,5 +1,5 @@
 property	kind	url	experimental	unstable	obsolete	deprecated
-Document()	property	/en-US/docs/Web/API/Document/Document	false	false	false	false
+Document	property	/en-US/docs/Web/API/Document/Document	false	false	false	false
 alinkColor	method	/en-US/docs/Web/API/Document/alinkColor	false	false	false	true
 all	method	/en-US/docs/Web/API/Document/all	false	false	false	true
 anchors	method	/en-US/docs/Web/API/Document/anchors	false	false	false	true

@@ -1,6 +1,7 @@
 mozRTCIceCandidate
 mozRTCPeerConnection
 mozRTCSessionDescription
+webkitCancelAnimationFrame
 webkitMediaStream
 webkitRTCPeerConnection
 webkitResolveLocalFileSystemURL

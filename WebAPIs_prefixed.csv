@@ -1,3 +1,4 @@
+class	url	deprecated
 webkitCancelAnimationFrame	https://developer.mozilla.org/en-US/docs/Web/API/Window/cancelAnimationFrame
 webkitURL	https://developer.mozilla.org/en-US/docs/Web/API/URL
 webkitSpeechRecognitionEvent	https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognitionEvent
