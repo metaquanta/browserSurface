@@ -2,3 +2,5 @@ prop
 webkitCancelAnimationFrame
 webkitRequestAnimationFrame
 webkitRequestFileSystem
+webkitConvertPointFromPageToNode
+webkitConvertPointFromNodeToPage

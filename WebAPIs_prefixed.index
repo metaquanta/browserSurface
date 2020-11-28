@@ -1,8 +1,14 @@
+WebKitAnimationEvent
+WebKitPoint
+WebKitTransitionEvent
+WebkitPoint
 mozRTCIceCandidate
 mozRTCPeerConnection
 mozRTCSessionDescription
 webkitCancelAnimationFrame
+webkitIndexedDB
 webkitMediaStream
+webkitOfflineAudioContext
 webkitRTCPeerConnection
 webkitResolveLocalFileSystemURL
 webkitSpeechGrammar

@@ -1,3 +1,5 @@
 webkitCancelAnimationFrame
+webkitConvertPointFromNodeToPage
+webkitConvertPointFromPageToNode
 webkitRequestAnimationFrame
 webkitRequestFileSystem

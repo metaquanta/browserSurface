@@ -12,3 +12,9 @@ webkitMediaStream
 mozRTCIceCandidate
 mozRTCPeerConnection
 mozRTCSessionDescription
+webkitOfflineAudioContext
+webkitIndexedDB
+WebkitPoint
+WebKitPoint
+WebKitTransitionEvent
+WebKitAnimationEvent

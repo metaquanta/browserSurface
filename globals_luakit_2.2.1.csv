@@ -1,0 +1,739 @@
+Infinity	[object Window]	Number	Infinity
+window	[object Window]	Window	[object Window]
+NaN	[object Window]	Number	NaN
+undefined	[object Window]	undefined=09
+document	[object Window]	HTMLDocument	[object HTMLDocument]
+self	[object Window]	Window	[object Window]
+name	[object Window]	String=09
+location	[object Window]	Location	file:///home/m/projects/browserSurface/sources/globals.html
+history	[object Window]	History	[object History]
+locationbar	[object Window]	BarProp	[object BarProp]
+menubar	[object Window]	BarProp	[object BarProp]
+personalbar	[object Window]	BarProp	[object BarProp]
+scrollbars	[object Window]	BarProp	[object BarProp]
+statusbar	[object Window]	BarProp	[object BarProp]
+toolbar	[object Window]	BarProp	[object BarProp]
+status	[object Window]	String=09
+closed	[object Window]	Boolean	false
+frames	[object Window]	Window	[object Window]
+length	[object Window]	Number	0
+top	[object Window]	Window	[object Window]
+opener	[object Window]	object=09
+parent	[object Window]	Window	[object Window]
+frameElement	[object Window]	object=09
+navigator	[object Window]	Navigator	[object Navigator]
+applicationCache	[object Window]	ApplicationCache	[object ApplicationCache]
+sessionStorage	[object Window]	Storage	[object Storage]
+localStorage	[object Window]	Storage	[object Storage]
+screen	[object Window]	Screen	[object Screen]
+innerHeight	[object Window]	Number	562
+innerWidth	[object Window]	Number	800
+scrollX	[object Window]	Number	0
+pageXOffset	[object Window]	Number	0
+scrollY	[object Window]	Number	0
+pageYOffset	[object Window]	Number	0
+screenX	[object Window]	Number	0
+screenY	[object Window]	Number	27
+outerWidth	[object Window]	Number	800
+outerHeight	[object Window]	Number	600
+devicePixelRatio	[object Window]	Number	2
+event	[object Window]	undefined=09
+defaultStatus	[object Window]	String=09
+defaultstatus	[object Window]	String=09
+offscreenBuffering	[object Window]	Boolean	true
+screenLeft	[object Window]	Number	0
+screenTop	[object Window]	Number	27
+clientInformation	[object Window]	Navigator	[object Navigator]
+styleMedia	[object Window]	Object	[object StyleMedia]
+onwebkitanimationend	[object Window]	object=09
+onwebkitanimationiteration	[object Window]	object=09
+onwebkitanimationstart	[object Window]	object=09
+onwebkittransitionend	[object Window]	object=09
+indexedDB	[object Window]	IDBFactory	[object IDBFactory]
+webkitIndexedDB	[object Window]	IDBFactory	[object IDBFactory]
+openDatabase	[object Window]	Object	[object Function]
+onabort	[object Window]	object=09
+onblur	[object Window]	object=09
+oncanplay	[object Window]	object=09
+oncanplaythrough	[object Window]	object=09
+onchange	[object Window]	object=09
+onclick	[object Window]	object=09
+oncontextmenu	[object Window]	object=09
+oncuechange	[object Window]	object=09
+ondblclick	[object Window]	object=09
+ondrag	[object Window]	object=09
+ondragend	[object Window]	object=09
+ondragenter	[object Window]	object=09
+ondragleave	[object Window]	object=09
+ondragover	[object Window]	object=09
+ondragstart	[object Window]	object=09
+ondrop	[object Window]	object=09
+ondurationchange	[object Window]	object=09
+onemptied	[object Window]	object=09
+onended	[object Window]	object=09
+onerror	[object Window]	object=09
+onfocus	[object Window]	object=09
+oninput	[object Window]	object=09
+oninvalid	[object Window]	object=09
+onkeydown	[object Window]	object=09
+onkeypress	[object Window]	object=09
+onkeyup	[object Window]	object=09
+onload	[object Window]	object=09
+onloadeddata	[object Window]	object=09
+onloadedmetadata	[object Window]	object=09
+onloadstart	[object Window]	object=09
+onmousedown	[object Window]	object=09
+onmouseenter	[object Window]	object=09
+onmouseleave	[object Window]	object=09
+onmousemove	[object Window]	object=09
+onmouseout	[object Window]	object=09
+onmouseover	[object Window]	object=09
+onmouseup	[object Window]	object=09
+onmousewheel	[object Window]	object=09
+onpause	[object Window]	object=09
+onplay	[object Window]	object=09
+onplaying	[object Window]	object=09
+onprogress	[object Window]	object=09
+onratechange	[object Window]	object=09
+onrejectionhandled	[object Window]	object=09
+onreset	[object Window]	object=09
+onresize	[object Window]	object=09
+onscroll	[object Window]	object=09
+onseeked	[object Window]	object=09
+onseeking	[object Window]	object=09
+onselect	[object Window]	object=09
+onstalled	[object Window]	object=09
+onsubmit	[object Window]	object=09
+onsuspend	[object Window]	object=09
+ontimeupdate	[object Window]	object=09
+ontoggle	[object Window]	object=09
+onunhandledrejection	[object Window]	object=09
+onvolumechange	[object Window]	object=09
+onwaiting	[object Window]	object=09
+ontransitionend	[object Window]	object=09
+ontransitionrun	[object Window]	object=09
+ontransitionstart	[object Window]	object=09
+ontransitioncancel	[object Window]	object=09
+onanimationend	[object Window]	object=09
+onanimationiteration	[object Window]	object=09
+onanimationstart	[object Window]	object=09
+onanimationcancel	[object Window]	object=09
+ongotpointercapture	[object Window]	object=09
+onlostpointercapture	[object Window]	object=09
+onpointerdown	[object Window]	object=09
+onpointermove	[object Window]	object=09
+onpointerup	[object Window]	object=09
+onpointercancel	[object Window]	object=09
+onpointerover	[object Window]	object=09
+onpointerout	[object Window]	object=09
+onpointerenter	[object Window]	object=09
+onpointerleave	[object Window]	object=09
+onsearch	[object Window]	object=09
+onwheel	[object Window]	object=09
+onwebkitmouseforcechanged	[object Window]	object=09
+onwebkitmouseforcedown	[object Window]	object=09
+onwebkitmouseforcewillbegin	[object Window]	object=09
+onwebkitmouseforceup	[object Window]	object=09
+crypto	[object Window]	Crypto	[object Crypto]
+performance	[object Window]	Performance	[object Performance]
+onafterprint	[object Window]	object=09
+onbeforeprint	[object Window]	object=09
+onbeforeunload	[object Window]	object=09
+onhashchange	[object Window]	object=09
+onlanguagechange	[object Window]	object=09
+onmessage	[object Window]	object=09
+onoffline	[object Window]	object=09
+ononline	[object Window]	object=09
+onpagehide	[object Window]	object=09
+onpageshow	[object Window]	object=09
+onpopstate	[object Window]	object=09
+onstorage	[object Window]	object=09
+onunload	[object Window]	object=09
+origin	[object Window]	String	null
+Geolocation	[object Window]	Function	function Geolocation() {\n    [native code]\n}
+GeolocationCoordinates	[object Window]	Function	function GeolocationCoordinates() {\n    [native code]\n}
+GeolocationPosition	[object Window]	Function	function GeolocationPosition() {\n    [native code]\n}
+GeolocationPositionError	[object Window]	Function	function GeolocationPositionError() {\n    [native code]\n}
+IDBCursor	[object Window]	Function	function IDBCursor() {\n    [native code]\n}
+IDBCursorWithValue	[object Window]	Function	function IDBCursorWithValue() {\n    [native code]\n}
+IDBDatabase	[object Window]	Function	function IDBDatabase() {\n    [native code]\n}
+IDBFactory	[object Window]	Function	function IDBFactory() {\n    [native code]\n}
+IDBIndex	[object Window]	Function	function IDBIndex() {\n    [native code]\n}
+IDBKeyRange	[object Window]	Function	function IDBKeyRange() {\n    [native code]\n}
+IDBObjectStore	[object Window]	Function	function IDBObjectStore() {\n    [native code]\n}
+IDBOpenDBRequest	[object Window]	Function	function IDBOpenDBRequest() {\n    [native code]\n}
+IDBRequest	[object Window]	Function	function IDBRequest() {\n    [native code]\n}
+IDBTransaction	[object Window]	Function	function IDBTransaction() {\n    [native code]\n}
+IDBVersionChangeEvent	[object Window]	Function	function IDBVersionChangeEvent() {\n    [native code]\n}
+SourceBuffer	[object Window]	Function	function SourceBuffer() {\n    [native code]\n}
+SourceBufferList	[object Window]	Function	function SourceBufferList() {\n    [native code]\n}
+Notification	[object Window]	Function	function Notification() {\n    [native code]\n}
+ByteLengthQueuingStrategy	[object Window]	Function	function ByteLengthQueuingStrategy() {\n    [native code]\n}
+CountQueuingStrategy	[object Window]	Function	function CountQueuingStrategy() {\n    [native code]\n}
+ReadableStream	[object Window]	Function	function ReadableStream() {\n    [native code]\n}
+AnalyserNode	[object Window]	Function	function AnalyserNode() {\n    [native code]\n}
+AudioBuffer	[object Window]	Function	function AudioBuffer() {\n    [native code]\n}
+AudioDestinationNode	[object Window]	Function	function AudioDestinationNode() {\n    [native code]\n}
+AudioNode	[object Window]	Function	function AudioNode() {\n    [native code]\n}
+AudioParam	[object Window]	Function	function AudioParam() {\n    [native code]\n}
+AudioProcessingEvent	[object Window]	Function	function AudioProcessingEvent() {\n    [native code]\n}
+AudioScheduledSourceNode	[object Window]	Function	function AudioScheduledSourceNode() {\n    [native code]\n}
+BiquadFilterNode	[object Window]	Function	function BiquadFilterNode() {\n    [native code]\n}
+ChannelMergerNode	[object Window]	Function	function ChannelMergerNode() {\n    [native code]\n}
+ChannelSplitterNode	[object Window]	Function	function ChannelSplitterNode() {\n    [native code]\n}
+ConvolverNode	[object Window]	Function	function ConvolverNode() {\n    [native code]\n}
+DelayNode	[object Window]	Function	function DelayNode() {\n    [native code]\n}
+DynamicsCompressorNode	[object Window]	Function	function DynamicsCompressorNode() {\n    [native code]\n}
+GainNode	[object Window]	Function	function GainNode() {\n    [native code]\n}
+MediaElementAudioSourceNode	[object Window]	Function	function MediaElementAudioSourceNode() {\n    [native code]\n}
+OfflineAudioCompletionEvent	[object Window]	Function	function OfflineAudioCompletionEvent() {\n    [native code]\n}
+PeriodicWave	[object Window]	Function	function PeriodicWave() {\n    [native code]\n}
+ScriptProcessorNode	[object Window]	Function	function ScriptProcessorNode() {\n    [native code]\n}
+WaveShaperNode	[object Window]	Function	function WaveShaperNode() {\n    [native code]\n}
+SQLTransaction	[object Window]	Function	function SQLTransaction() {\n    [native code]\n}
+CloseEvent	[object Window]	Function	function CloseEvent() {\n    [native code]\n}
+CryptoKey	[object Window]	Function	function CryptoKey() {\n    [native code]\n}
+SubtleCrypto	[object Window]	Function	function SubtleCrypto() {\n    [native code]\n}
+CSSFontFaceRule	[object Window]	Function	function CSSFontFaceRule() {\n    [native code]\n}
+CSSImportRule	[object Window]	Function	function CSSImportRule() {\n    [native code]\n}
+CSSKeyframeRule	[object Window]	Function	function CSSKeyframeRule() {\n    [native code]\n}
+CSSKeyframesRule	[object Window]	Function	function CSSKeyframesRule() {\n    [native code]\n}
+CSSMediaRule	[object Window]	Function	function CSSMediaRule() {\n    [native code]\n}
+CSSNamespaceRule	[object Window]	Function	function CSSNamespaceRule() {\n    [native code]\n}
+CSSPageRule	[object Window]	Function	function CSSPageRule() {\n    [native code]\n}
+CSSRule	[object Window]	Function	function CSSRule() {\n    [native code]\n}
+CSSRuleList	[object Window]	Function	function CSSRuleList() {\n    [native code]\n}
+CSSStyleDeclaration	[object Window]	Function	function CSSStyleDeclaration() {\n    [native code]\n}
+CSSStyleRule	[object Window]	Function	function CSSStyleRule() {\n    [native code]\n}
+CSSStyleSheet	[object Window]	Function	function CSSStyleSheet() {\n    [native code]\n}
+CSSSupportsRule	[object Window]	Function	function CSSSupportsRule() {\n    [native code]\n}
+CSS	[object Window]	Function	function CSS() {\n    [native code]\n}
+DOMMatrix	[object Window]	Function	function DOMMatrix() {\n    [native code]\n}
+DOMMatrixReadOnly	[object Window]	Function	function DOMMatrixReadOnly() {\n    [native code]\n}
+Counter	[object Window]	Function	function Counter() {\n    [native code]\n}
+CSSPrimitiveValue	[object Window]	Function	function CSSPrimitiveValue() {\n    [native code]\n}
+RGBColor	[object Window]	Function	function RGBColor() {\n    [native code]\n}
+Rect	[object Window]	Function	function Rect() {\n    [native code]\n}
+CSSValue	[object Window]	Function	function CSSValue() {\n    [native code]\n}
+CSSValueList	[object Window]	Function	function CSSValueList() {\n    [native code]\n}
+FontFace	[object Window]	Function	function FontFace() {\n    [native code]\n}
+FontFaceSet	[object Window]	Function	function FontFaceSet() {\n    [native code]\n}
+MediaList	[object Window]	Function	function MediaList() {\n    [native code]\n}
+MediaQueryList	[object Window]	Function	function MediaQueryList() {\n    [native code]\n}
+MediaQueryListEvent	[object Window]	Function	function MediaQueryListEvent() {\n    [native code]\n}
+StyleSheet	[object Window]	Function	function StyleSheet() {\n    [native code]\n}
+StyleSheetList	[object Window]	Function	function StyleSheetList() {\n    [native code]\n}
+WebKitCSSMatrix	[object Window]	Function	function WebKitCSSMatrix() {\n    [native code]\n}
+AbortController	[object Window]	Function	function AbortController() {\n    [native code]\n}
+AbortSignal	[object Window]	Function	function AbortSignal() {\n    [native code]\n}
+AnimationEvent	[object Window]	Function	function AnimationEvent() {\n    [native code]\n}
+Attr	[object Window]	Function	function Attr() {\n    [native code]\n}
+BeforeUnloadEvent	[object Window]	Function	function BeforeUnloadEvent() {\n    [native code]\n}
+CDATASection	[object Window]	Function	function CDATASection() {\n    [native code]\n}
+CharacterData	[object Window]	Function	function CharacterData() {\n    [native code]\n}
+ClipboardEvent	[object Window]	Function	function ClipboardEvent() {\n    [native code]\n}
+Comment	[object Window]	Function	function Comment() {\n    [native code]\n}
+CompositionEvent	[object Window]	Function	function CompositionEvent() {\n    [native code]\n}
+CustomEvent	[object Window]	Function	function CustomEvent() {\n    [native code]\n}
+DOMException	[object Window]	Function	function DOMException() {\n    [native code]\n}
+DOMImplementation	[object Window]	Function	function DOMImplementation() {\n    [native code]\n}
+DOMPoint	[object Window]	Function	function DOMPoint() {\n    [native code]\n}
+DOMPointReadOnly	[object Window]	Function	function DOMPointReadOnly() {\n    [native code]\n}
+DOMQuad	[object Window]	Function	function DOMQuad() {\n    [native code]\n}
+DOMRect	[object Window]	Function	function DOMRect() {\n    [native code]\n}
+DOMRectList	[object Window]	Function	function DOMRectList() {\n    [native code]\n}
+DOMRectReadOnly	[object Window]	Function	function DOMRectReadOnly() {\n    [native code]\n}
+DOMStringList	[object Window]	Function	function DOMStringList() {\n    [native code]\n}
+DOMStringMap	[object Window]	Function	function DOMStringMap() {\n    [native code]\n}
+DataTransfer	[object Window]	Function	function DataTransfer() {\n    [native code]\n}
+Document	[object Window]	Function	function Document() {\n    [native code]\n}
+DocumentFragment	[object Window]	Function	function DocumentFragment() {\n    [native code]\n}
+DocumentType	[object Window]	Function	function DocumentType() {\n    [native code]\n}
+DragEvent	[object Window]	Function	function DragEvent() {\n    [native code]\n}
+Element	[object Window]	Function	function Element() {\n    [native code]\n}
+ErrorEvent	[object Window]	Function	function ErrorEvent() {\n    [native code]\n}
+Event	[object Window]	Function	function Event() {\n    [native code]\n}
+EventTarget	[object Window]	Function	function EventTarget() {\n    [native code]\n}
+FocusEvent	[object Window]	Function	function FocusEvent() {\n    [native code]\n}
+HashChangeEvent	[object Window]	Function	function HashChangeEvent() {\n    [native code]\n}
+KeyboardEvent	[object Window]	Function	function KeyboardEvent() {\n    [native code]\n}
+MessageChannel	[object Window]	Function	function MessageChannel() {\n    [native code]\n}
+MessageEvent	[object Window]	Function	function MessageEvent() {\n    [native code]\n}
+MessagePort	[object Window]	Function	function MessagePort() {\n    [native code]\n}
+MouseEvent	[object Window]	Function	function MouseEvent() {\n    [native code]\n}
+MutationEvent	[object Window]	Function	function MutationEvent() {\n    [native code]\n}
+MutationObserver	[object Window]	Function	function MutationObserver() {\n    [native code]\n}
+WebKitMutationObserver	[object Window]	Function	function MutationObserver() {\n    [native code]\n}
+MutationRecord	[object Window]	Function	function MutationRecord() {\n    [native code]\n}
+NamedNodeMap	[object Window]	Function	function NamedNodeMap() {\n    [native code]\n}
+Node	[object Window]	Function	function Node() {\n    [native code]\n}
+NodeFilter	[object Window]	Function	function NodeFilter() {\n    [native code]\n}
+NodeIterator	[object Window]	Function	function NodeIterator() {\n    [native code]\n}
+NodeList	[object Window]	Function	function NodeList() {\n    [native code]\n}
+OverflowEvent	[object Window]	Function	function OverflowEvent() {\n    [native code]\n}
+PageTransitionEvent	[object Window]	Function	function PageTransitionEvent() {\n    [native code]\n}
+PopStateEvent	[object Window]	Function	function PopStateEvent() {\n    [native code]\n}
+ProcessingInstruction	[object Window]	Function	function ProcessingInstruction() {\n    [native code]\n}
+ProgressEvent	[object Window]	Function	function ProgressEvent() {\n    [native code]\n}
+PromiseRejectionEvent	[object Window]	Function	function PromiseRejectionEvent() {\n    [native code]\n}
+Range	[object Window]	Function	function Range() {\n    [native code]\n}
+SecurityPolicyViolationEvent	[object Window]	Function	function SecurityPolicyViolationEvent() {\n    [native code]\n}
+Text	[object Window]	Function	function Text() {\n    [native code]\n}
+TextDecoder	[object Window]	Function	function TextDecoder() {\n    [native code]\n}
+TextEncoder	[object Window]	Function	function TextEncoder() {\n    [native code]\n}
+TextEvent	[object Window]	Function	function TextEvent() {\n    [native code]\n}
+Touch	[object Window]	Function	function Touch() {\n    [native code]\n}
+TouchEvent	[object Window]	Function	function TouchEvent() {\n    [native code]\n}
+TouchList	[object Window]	Function	function TouchList() {\n    [native code]\n}
+TransitionEvent	[object Window]	Function	function TransitionEvent() {\n    [native code]\n}
+TreeWalker	[object Window]	Function	function TreeWalker() {\n    [native code]\n}
+UIEvent	[object Window]	Function	function UIEvent() {\n    [native code]\n}
+WebKitAnimationEvent	[object Window]	Function	function WebKitAnimationEvent() {\n    [native code]\n}
+WebKitTransitionEvent	[object Window]	Function	function WebKitTransitionEvent() {\n    [native code]\n}
+WheelEvent	[object Window]	Function	function WheelEvent() {\n    [native code]\n}
+XMLDocument	[object Window]	Function	function XMLDocument() {\n    [native code]\n}
+SVGDocument	[object Window]	Function	function XMLDocument() {\n    [native code]\n}
+Blob	[object Window]	Function	function Blob() {\n    [native code]\n}
+File	[object Window]	Function	function File() {\n    [native code]\n}
+FileList	[object Window]	Function	function FileList() {\n    [native code]\n}
+FileReader	[object Window]	Function	function FileReader() {\n    [native code]\n}
+FormData	[object Window]	Function	function FormData() {\n    [native code]\n}
+DOMTokenList	[object Window]	Function	function DOMTokenList() {\n    [native code]\n}
+URL	[object Window]	Function	function URL() {\n    [native code]\n}
+webkitURL	[object Window]	Function	function URL() {\n    [native code]\n}
+HTMLAllCollection	[object Window]	Function	function HTMLAllCollection() {\n    [native code]\n}
+HTMLAnchorElement	[object Window]	Function	function HTMLAnchorElement() {\n    [native code]\n}
+HTMLAppletElement	[object Window]	Function	function HTMLAppletElement() {\n    [native code]\n}
+HTMLAreaElement	[object Window]	Function	function HTMLAreaElement() {\n    [native code]\n}
+HTMLAudioElement	[object Window]	Function	function HTMLAudioElement() {\n    [native code]\n}
+Audio	[object Window]	Function	function Audio() {\n    [native code]\n}
+HTMLBRElement	[object Window]	Function	function HTMLBRElement() {\n    [native code]\n}
+HTMLBaseElement	[object Window]	Function	function HTMLBaseElement() {\n    [native code]\n}
+HTMLBodyElement	[object Window]	Function	function HTMLBodyElement() {\n    [native code]\n}
+HTMLButtonElement	[object Window]	Function	function HTMLButtonElement() {\n    [native code]\n}
+HTMLCanvasElement	[object Window]	Function	function HTMLCanvasElement() {\n    [native code]\n}
+HTMLCollection	[object Window]	Function	function HTMLCollection() {\n    [native code]\n}
+HTMLDListElement	[object Window]	Function	function HTMLDListElement() {\n    [native code]\n}
+HTMLDataElement	[object Window]	Function	function HTMLDataElement() {\n    [native code]\n}
+HTMLDetailsElement	[object Window]	Function	function HTMLDetailsElement() {\n    [native code]\n}
+HTMLDirectoryElement	[object Window]	Function	function HTMLDirectoryElement() {\n    [native code]\n}
+HTMLDivElement	[object Window]	Function	function HTMLDivElement() {\n    [native code]\n}
+HTMLDocument	[object Window]	Function	function HTMLDocument() {\n    [native code]\n}
+HTMLElement	[object Window]	Function	function HTMLElement() {\n    [native code]\n}
+HTMLEmbedElement	[object Window]	Function	function HTMLEmbedElement() {\n    [native code]\n}
+HTMLFieldSetElement	[object Window]	Function	function HTMLFieldSetElement() {\n    [native code]\n}
+HTMLFontElement	[object Window]	Function	function HTMLFontElement() {\n    [native code]\n}
+HTMLFormControlsCollection	[object Window]	Function	function HTMLFormControlsCollection() {\n    [native code]\n}
+HTMLFormElement	[object Window]	Function	function HTMLFormElement() {\n    [native code]\n}
+HTMLFrameElement	[object Window]	Function	function HTMLFrameElement() {\n    [native code]\n}
+HTMLFrameSetElement	[object Window]	Function	function HTMLFrameSetElement() {\n    [native code]\n}
+HTMLHRElement	[object Window]	Function	function HTMLHRElement() {\n    [native code]\n}
+HTMLHeadElement	[object Window]	Function	function HTMLHeadElement() {\n    [native code]\n}
+HTMLHeadingElement	[object Window]	Function	function HTMLHeadingElement() {\n    [native code]\n}
+HTMLHtmlElement	[object Window]	Function	function HTMLHtmlElement() {\n    [native code]\n}
+HTMLIFrameElement	[object Window]	Function	function HTMLIFrameElement() {\n    [native code]\n}
+HTMLImageElement	[object Window]	Function	function HTMLImageElement() {\n    [native code]\n}
+Image	[object Window]	Function	function Image() {\n    [native code]\n}
+HTMLInputElement	[object Window]	Function	function HTMLInputElement() {\n    [native code]\n}
+HTMLLIElement	[object Window]	Function	function HTMLLIElement() {\n    [native code]\n}
+HTMLLabelElement	[object Window]	Function	function HTMLLabelElement() {\n    [native code]\n}
+HTMLLegendElement	[object Window]	Function	function HTMLLegendElement() {\n    [native code]\n}
+HTMLLinkElement	[object Window]	Function	function HTMLLinkElement() {\n    [native code]\n}
+HTMLMapElement	[object Window]	Function	function HTMLMapElement() {\n    [native code]\n}
+HTMLMarqueeElement	[object Window]	Function	function HTMLMarqueeElement() {\n    [native code]\n}
+HTMLMediaElement	[object Window]	Function	function HTMLMediaElement() {\n    [native code]\n}
+HTMLMenuElement	[object Window]	Function	function HTMLMenuElement() {\n    [native code]\n}
+HTMLMetaElement	[object Window]	Function	function HTMLMetaElement() {\n    [native code]\n}
+HTMLMeterElement	[object Window]	Function	function HTMLMeterElement() {\n    [native code]\n}
+HTMLModElement	[object Window]	Function	function HTMLModElement() {\n    [native code]\n}
+HTMLOListElement	[object Window]	Function	function HTMLOListElement() {\n    [native code]\n}
+HTMLObjectElement	[object Window]	Function	function HTMLObjectElement() {\n    [native code]\n}
+HTMLOptGroupElement	[object Window]	Function	function HTMLOptGroupElement() {\n    [native code]\n}
+HTMLOptionElement	[object Window]	Function	function HTMLOptionElement() {\n    [native code]\n}
+Option	[object Window]	Function	function Option() {\n    [native code]\n}
+HTMLOptionsCollection	[object Window]	Function	function HTMLOptionsCollection() {\n    [native code]\n}
+HTMLOutputElement	[object Window]	Function	function HTMLOutputElement() {\n    [native code]\n}
+HTMLParagraphElement	[object Window]	Function	function HTMLParagraphElement() {\n    [native code]\n}
+HTMLParamElement	[object Window]	Function	function HTMLParamElement() {\n    [native code]\n}
+HTMLPictureElement	[object Window]	Function	function HTMLPictureElement() {\n    [native code]\n}
+HTMLPreElement	[object Window]	Function	function HTMLPreElement() {\n    [native code]\n}
+HTMLProgressElement	[object Window]	Function	function HTMLProgressElement() {\n    [native code]\n}
+HTMLQuoteElement	[object Window]	Function	function HTMLQuoteElement() {\n    [native code]\n}
+HTMLScriptElement	[object Window]	Function	function HTMLScriptElement() {\n    [native code]\n}
+HTMLSelectElement	[object Window]	Function	function HTMLSelectElement() {\n    [native code]\n}
+HTMLSourceElement	[object Window]	Function	function HTMLSourceElement() {\n    [native code]\n}
+HTMLSpanElement	[object Window]	Function	function HTMLSpanElement() {\n    [native code]\n}
+HTMLStyleElement	[object Window]	Function	function HTMLStyleElement() {\n    [native code]\n}
+HTMLTableCaptionElement	[object Window]	Function	function HTMLTableCaptionElement() {\n    [native code]\n}
+HTMLTableCellElement	[object Window]	Function	function HTMLTableCellElement() {\n    [native code]\n}
+HTMLTableColElement	[object Window]	Function	function HTMLTableColElement() {\n    [native code]\n}
+HTMLTableElement	[object Window]	Function	function HTMLTableElement() {\n    [native code]\n}
+HTMLTableRowElement	[object Window]	Function	function HTMLTableRowElement() {\n    [native code]\n}
+HTMLTableSectionElement	[object Window]	Function	function HTMLTableSectionElement() {\n    [native code]\n}
+HTMLTemplateElement	[object Window]	Function	function HTMLTemplateElement() {\n    [native code]\n}
+HTMLTextAreaElement	[object Window]	Function	function HTMLTextAreaElement() {\n    [native code]\n}
+HTMLTimeElement	[object Window]	Function	function HTMLTimeElement() {\n    [native code]\n}
+HTMLTitleElement	[object Window]	Function	function HTMLTitleElement() {\n    [native code]\n}
+HTMLTrackElement	[object Window]	Function	function HTMLTrackElement() {\n    [native code]\n}
+HTMLUListElement	[object Window]	Function	function HTMLUListElement() {\n    [native code]\n}
+HTMLUnknownElement	[object Window]	Function	function HTMLUnknownElement() {\n    [native code]\n}
+HTMLVideoElement	[object Window]	Function	function HTMLVideoElement() {\n    [native code]\n}
+ImageData	[object Window]	Function	function ImageData() {\n    [native code]\n}
+MediaController	[object Window]	Function	function MediaController() {\n    [native code]\n}
+MediaError	[object Window]	Function	function MediaError() {\n    [native code]\n}
+RadioNodeList	[object Window]	Function	function RadioNodeList() {\n    [native code]\n}
+TextMetrics	[object Window]	Function	function TextMetrics() {\n    [native code]\n}
+TimeRanges	[object Window]	Function	function TimeRanges() {\n    [native code]\n}
+URLSearchParams	[object Window]	Function	function URLSearchParams() {\n    [native code]\n}
+ValidityState	[object Window]	Function	function ValidityState() {\n    [native code]\n}
+CanvasGradient	[object Window]	Function	function CanvasGradient() {\n    [native code]\n}
+CanvasPattern	[object Window]	Function	function CanvasPattern() {\n    [native code]\n}
+CanvasRenderingContext2D	[object Window]	Function	function CanvasRenderingContext2D() {\n    [native code]\n}
+Path2D	[object Window]	Function	function Path2D() {\n    [native code]\n}
+WebGLActiveInfo	[object Window]	Function	function WebGLActiveInfo() {\n    [native code]\n}
+WebGLBuffer	[object Window]	Function	function WebGLBuffer() {\n    [native code]\n}
+WebGLContextEvent	[object Window]	Function	function WebGLContextEvent() {\n    [native code]\n}
+WebGLFramebuffer	[object Window]	Function	function WebGLFramebuffer() {\n    [native code]\n}
+WebGLProgram	[object Window]	Function	function WebGLProgram() {\n    [native code]\n}
+WebGLQuery	[object Window]	Function	function WebGLQuery() {\n    [native code]\n}
+WebGLRenderbuffer	[object Window]	Function	function WebGLRenderbuffer() {\n    [native code]\n}
+WebGLRenderingContext	[object Window]	Function	function WebGLRenderingContext() {\n    [native code]\n}
+WebGLSampler	[object Window]	Function	function WebGLSampler() {\n    [native code]\n}
+WebGLShader	[object Window]	Function	function WebGLShader() {\n    [native code]\n}
+WebGLShaderPrecisionFormat	[object Window]	Function	function WebGLShaderPrecisionFormat() {\n    [native code]\n}
+WebGLSync	[object Window]	Function	function WebGLSync() {\n    [native code]\n}
+WebGLTexture	[object Window]	Function	function WebGLTexture() {\n    [native code]\n}
+WebGLUniformLocation	[object Window]	Function	function WebGLUniformLocation() {\n    [native code]\n}
+AudioTrack	[object Window]	Function	function AudioTrack() {\n    [native code]\n}
+AudioTrackList	[object Window]	Function	function AudioTrackList() {\n    [native code]\n}
+DataCue	[object Window]	Function	function DataCue() {\n    [native code]\n}
+TextTrack	[object Window]	Function	function TextTrack() {\n    [native code]\n}
+TextTrackCue	[object Window]	Function	function TextTrackCue() {\n    [native code]\n}
+TextTrackCueList	[object Window]	Function	function TextTrackCueList() {\n    [native code]\n}
+TextTrackList	[object Window]	Function	function TextTrackList() {\n    [native code]\n}
+TrackEvent	[object Window]	Function	function TrackEvent() {\n    [native code]\n}
+VTTCue	[object Window]	Function	function VTTCue() {\n    [native code]\n}
+VTTRegion	[object Window]	Function	function VTTRegion() {\n    [native code]\n}
+VideoTrack	[object Window]	Function	function VideoTrack() {\n    [native code]\n}
+VideoTrackList	[object Window]	Function	function VideoTrackList() {\n    [native code]\n}
+ApplicationCache	[object Window]	Function	function ApplicationCache() {\n    [native code]\n}
+MathMLElement	[object Window]	Function	function MathMLElement() {\n    [native code]\n}
+MathMLMathElement	[object Window]	Function	function MathMLMathElement() {\n    [native code]\n}
+BarProp	[object Window]	Function	function BarProp() {\n    [native code]\n}
+Crypto	[object Window]	Function	function Crypto() {\n    [native code]\n}
+Selection	[object Window]	Function	function Selection() {\n    [native code]\n}
+Window	[object Window]	Function	function Window() {\n    [native code]\n}
+EventSource	[object Window]	Function	function EventSource() {\n    [native code]\n}
+History	[object Window]	Function	function History() {\n    [native code]\n}
+Location	[object Window]	Function	function Location() {\n    [native code]\n}
+Navigator	[object Window]	Function	function Navigator() {\n    [native code]\n}
+Performance	[object Window]	Function	function Performance() {\n    [native code]\n}
+PerformanceNavigation	[object Window]	Function	function PerformanceNavigation() {\n    [native code]\n}
+PerformanceTiming	[object Window]	Function	function PerformanceTiming() {\n    [native code]\n}
+Screen	[object Window]	Function	function Screen() {\n    [native code]\n}
+UserMessageHandler	[object Window]	Function	function UserMessageHandler() {\n    [native code]\n}
+UserMessageHandlersNamespace	[object Window]	Function	function UserMessageHandlersNamespace() {\n    [native code]\n}
+WebKitNamespace	[object Window]	Function	function WebKitNamespace() {\n    [native code]\n}
+WebKitPoint	[object Window]	Function	function WebKitPoint() {\n    [native code]\n}
+MimeType	[object Window]	Function	function MimeType() {\n    [native code]\n}
+MimeTypeArray	[object Window]	Function	function MimeTypeArray() {\n    [native code]\n}
+Plugin	[object Window]	Function	function Plugin() {\n    [native code]\n}
+PluginArray	[object Window]	Function	function PluginArray() {\n    [native code]\n}
+Storage	[object Window]	Function	function Storage() {\n    [native code]\n}
+StorageEvent	[object Window]	Function	function StorageEvent() {\n    [native code]\n}
+SVGAElement	[object Window]	Function	function SVGAElement() {\n    [native code]\n}
+SVGAltGlyphDefElement	[object Window]	Function	function SVGAltGlyphDefElement() {\n    [native code]\n}
+SVGAltGlyphElement	[object Window]	Function	function SVGAltGlyphElement() {\n    [native code]\n}
+SVGAltGlyphItemElement	[object Window]	Function	function SVGAltGlyphItemElement() {\n    [native code]\n}
+SVGAngle	[object Window]	Function	function SVGAngle() {\n    [native code]\n}
+SVGAnimateColorElement	[object Window]	Function	function SVGAnimateColorElement() {\n    [native code]\n}
+SVGAnimateElement	[object Window]	Function	function SVGAnimateElement() {\n    [native code]\n}
+SVGAnimateMotionElement	[object Window]	Function	function SVGAnimateMotionElement() {\n    [native code]\n}
+SVGAnimateTransformElement	[object Window]	Function	function SVGAnimateTransformElement() {\n    [native code]\n}
+SVGAnimatedAngle	[object Window]	Function	function SVGAnimatedAngle() {\n    [native code]\n}
+SVGAnimatedBoolean	[object Window]	Function	function SVGAnimatedBoolean() {\n    [native code]\n}
+SVGAnimatedEnumeration	[object Window]	Function	function SVGAnimatedEnumeration() {\n    [native code]\n}
+SVGAnimatedInteger	[object Window]	Function	function SVGAnimatedInteger() {\n    [native code]\n}
+SVGAnimatedLength	[object Window]	Function	function SVGAnimatedLength() {\n    [native code]\n}
+SVGAnimatedLengthList	[object Window]	Function	function SVGAnimatedLengthList() {\n    [native code]\n}
+SVGAnimatedNumber	[object Window]	Function	function SVGAnimatedNumber() {\n    [native code]\n}
+SVGAnimatedNumberList	[object Window]	Function	function SVGAnimatedNumberList() {\n    [native code]\n}
+SVGAnimatedPreserveAspectRatio	[object Window]	Function	function SVGAnimatedPreserveAspectRatio() {\n    [native code]\n}
+SVGAnimatedRect	[object Window]	Function	function SVGAnimatedRect() {\n    [native code]\n}
+SVGAnimatedString	[object Window]	Function	function SVGAnimatedString() {\n    [native code]\n}
+SVGAnimatedTransformList	[object Window]	Function	function SVGAnimatedTransformList() {\n    [native code]\n}
+SVGAnimationElement	[object Window]	Function	function SVGAnimationElement() {\n    [native code]\n}
+SVGCircleElement	[object Window]	Function	function SVGCircleElement() {\n    [native code]\n}
+SVGClipPathElement	[object Window]	Function	function SVGClipPathElement() {\n    [native code]\n}
+SVGComponentTransferFunctionElement	[object Window]	Function	function SVGComponentTransferFunctionElement() {\n    [native code]\n}
+SVGCursorElement	[object Window]	Function	function SVGCursorElement() {\n    [native code]\n}
+SVGDefsElement	[object Window]	Function	function SVGDefsElement() {\n    [native code]\n}
+SVGDescElement	[object Window]	Function	function SVGDescElement() {\n    [native code]\n}
+SVGElement	[object Window]	Function	function SVGElement() {\n    [native code]\n}
+SVGEllipseElement	[object Window]	Function	function SVGEllipseElement() {\n    [native code]\n}
+SVGFEBlendElement	[object Window]	Function	function SVGFEBlendElement() {\n    [native code]\n}
+SVGFEColorMatrixElement	[object Window]	Function	function SVGFEColorMatrixElement() {\n    [native code]\n}
+SVGFEComponentTransferElement	[object Window]	Function	function SVGFEComponentTransferElement() {\n    [native code]\n}
+SVGFECompositeElement	[object Window]	Function	function SVGFECompositeElement() {\n    [native code]\n}
+SVGFEConvolveMatrixElement	[object Window]	Function	function SVGFEConvolveMatrixElement() {\n    [native code]\n}
+SVGFEDiffuseLightingElement	[object Window]	Function	function SVGFEDiffuseLightingElement() {\n    [native code]\n}
+SVGFEDisplacementMapElement	[object Window]	Function	function SVGFEDisplacementMapElement() {\n    [native code]\n}
+SVGFEDistantLightElement	[object Window]	Function	function SVGFEDistantLightElement() {\n    [native code]\n}
+SVGFEDropShadowElement	[object Window]	Function	function SVGFEDropShadowElement() {\n    [native code]\n}
+SVGFEFloodElement	[object Window]	Function	function SVGFEFloodElement() {\n    [native code]\n}
+SVGFEFuncAElement	[object Window]	Function	function SVGFEFuncAElement() {\n    [native code]\n}
+SVGFEFuncBElement	[object Window]	Function	function SVGFEFuncBElement() {\n    [native code]\n}
+SVGFEFuncGElement	[object Window]	Function	function SVGFEFuncGElement() {\n    [native code]\n}
+SVGFEFuncRElement	[object Window]	Function	function SVGFEFuncRElement() {\n    [native code]\n}
+SVGFEGaussianBlurElement	[object Window]	Function	function SVGFEGaussianBlurElement() {\n    [native code]\n}
+SVGFEImageElement	[object Window]	Function	function SVGFEImageElement() {\n    [native code]\n}
+SVGFEMergeElement	[object Window]	Function	function SVGFEMergeElement() {\n    [native code]\n}
+SVGFEMergeNodeElement	[object Window]	Function	function SVGFEMergeNodeElement() {\n    [native code]\n}
+SVGFEMorphologyElement	[object Window]	Function	function SVGFEMorphologyElement() {\n    [native code]\n}
+SVGFEOffsetElement	[object Window]	Function	function SVGFEOffsetElement() {\n    [native code]\n}
+SVGFEPointLightElement	[object Window]	Function	function SVGFEPointLightElement() {\n    [native code]\n}
+SVGFESpecularLightingElement	[object Window]	Function	function SVGFESpecularLightingElement() {\n    [native code]\n}
+SVGFESpotLightElement	[object Window]	Function	function SVGFESpotLightElement() {\n    [native code]\n}
+SVGFETileElement	[object Window]	Function	function SVGFETileElement() {\n    [native code]\n}
+SVGFETurbulenceElement	[object Window]	Function	function SVGFETurbulenceElement() {\n    [native code]\n}
+SVGFilterElement	[object Window]	Function	function SVGFilterElement() {\n    [native code]\n}
+SVGFontElement	[object Window]	Function	function SVGFontElement() {\n    [native code]\n}
+SVGFontFaceElement	[object Window]	Function	function SVGFontFaceElement() {\n    [native code]\n}
+SVGFontFaceFormatElement	[object Window]	Function	function SVGFontFaceFormatElement() {\n    [native code]\n}
+SVGFontFaceNameElement	[object Window]	Function	function SVGFontFaceNameElement() {\n    [native code]\n}
+SVGFontFaceSrcElement	[object Window]	Function	function SVGFontFaceSrcElement() {\n    [native code]\n}
+SVGFontFaceUriElement	[object Window]	Function	function SVGFontFaceUriElement() {\n    [native code]\n}
+SVGForeignObjectElement	[object Window]	Function	function SVGForeignObjectElement() {\n    [native code]\n}
+SVGGElement	[object Window]	Function	function SVGGElement() {\n    [native code]\n}
+SVGGeometryElement	[object Window]	Function	function SVGGeometryElement() {\n    [native code]\n}
+SVGGlyphElement	[object Window]	Function	function SVGGlyphElement() {\n    [native code]\n}
+SVGGlyphRefElement	[object Window]	Function	function SVGGlyphRefElement() {\n    [native code]\n}
+SVGGradientElement	[object Window]	Function	function SVGGradientElement() {\n    [native code]\n}
+SVGGraphicsElement	[object Window]	Function	function SVGGraphicsElement() {\n    [native code]\n}
+SVGHKernElement	[object Window]	Function	function SVGHKernElement() {\n    [native code]\n}
+SVGImageElement	[object Window]	Function	function SVGImageElement() {\n    [native code]\n}
+SVGLength	[object Window]	Function	function SVGLength() {\n    [native code]\n}
+SVGLengthList	[object Window]	Function	function SVGLengthList() {\n    [native code]\n}
+SVGLineElement	[object Window]	Function	function SVGLineElement() {\n    [native code]\n}
+SVGLinearGradientElement	[object Window]	Function	function SVGLinearGradientElement() {\n    [native code]\n}
+SVGMPathElement	[object Window]	Function	function SVGMPathElement() {\n    [native code]\n}
+SVGMarkerElement	[object Window]	Function	function SVGMarkerElement() {\n    [native code]\n}
+SVGMaskElement	[object Window]	Function	function SVGMaskElement() {\n    [native code]\n}
+SVGMatrix	[object Window]	Function	function SVGMatrix() {\n    [native code]\n}
+SVGMetadataElement	[object Window]	Function	function SVGMetadataElement() {\n    [native code]\n}
+SVGMissingGlyphElement	[object Window]	Function	function SVGMissingGlyphElement() {\n    [native code]\n}
+SVGNumber	[object Window]	Function	function SVGNumber() {\n    [native code]\n}
+SVGNumberList	[object Window]	Function	function SVGNumberList() {\n    [native code]\n}
+SVGPathElement	[object Window]	Function	function SVGPathElement() {\n    [native code]\n}
+SVGPathSeg	[object Window]	Function	function SVGPathSeg() {\n    [native code]\n}
+SVGPathSegArcAbs	[object Window]	Function	function SVGPathSegArcAbs() {\n    [native code]\n}
+SVGPathSegArcRel	[object Window]	Function	function SVGPathSegArcRel() {\n    [native code]\n}
+SVGPathSegClosePath	[object Window]	Function	function SVGPathSegClosePath() {\n    [native code]\n}
+SVGPathSegCurvetoCubicAbs	[object Window]	Function	function SVGPathSegCurvetoCubicAbs() {\n    [native code]\n}
+SVGPathSegCurvetoCubicRel	[object Window]	Function	function SVGPathSegCurvetoCubicRel() {\n    [native code]\n}
+SVGPathSegCurvetoCubicSmoothAbs	[object Window]	Function	function SVGPathSegCurvetoCubicSmoothAbs() {\n    [native code]\n}
+SVGPathSegCurvetoCubicSmoothRel	[object Window]	Function	function SVGPathSegCurvetoCubicSmoothRel() {\n    [native code]\n}
+SVGPathSegCurvetoQuadraticAbs	[object Window]	Function	function SVGPathSegCurvetoQuadraticAbs() {\n    [native code]\n}
+SVGPathSegCurvetoQuadraticRel	[object Window]	Function	function SVGPathSegCurvetoQuadraticRel() {\n    [native code]\n}
+SVGPathSegCurvetoQuadraticSmoothAbs	[object Window]	Function	function SVGPathSegCurvetoQuadraticSmoothAbs() {\n    [native code]\n}
+SVGPathSegCurvetoQuadraticSmoothRel	[object Window]	Function	function SVGPathSegCurvetoQuadraticSmoothRel() {\n    [native code]\n}
+SVGPathSegLinetoAbs	[object Window]	Function	function SVGPathSegLinetoAbs() {\n    [native code]\n}
+SVGPathSegLinetoHorizontalAbs	[object Window]	Function	function SVGPathSegLinetoHorizontalAbs() {\n    [native code]\n}
+SVGPathSegLinetoHorizontalRel	[object Window]	Function	function SVGPathSegLinetoHorizontalRel() {\n    [native code]\n}
+SVGPathSegLinetoRel	[object Window]	Function	function SVGPathSegLinetoRel() {\n    [native code]\n}
+SVGPathSegLinetoVerticalAbs	[object Window]	Function	function SVGPathSegLinetoVerticalAbs() {\n    [native code]\n}
+SVGPathSegLinetoVerticalRel	[object Window]	Function	function SVGPathSegLinetoVerticalRel() {\n    [native code]\n}
+SVGPathSegList	[object Window]	Function	function SVGPathSegList() {\n    [native code]\n}
+SVGPathSegMovetoAbs	[object Window]	Function	function SVGPathSegMovetoAbs() {\n    [native code]\n}
+SVGPathSegMovetoRel	[object Window]	Function	function SVGPathSegMovetoRel() {\n    [native code]\n}
+SVGPatternElement	[object Window]	Function	function SVGPatternElement() {\n    [native code]\n}
+SVGPoint	[object Window]	Function	function SVGPoint() {\n    [native code]\n}
+SVGPointList	[object Window]	Function	function SVGPointList() {\n    [native code]\n}
+SVGPolygonElement	[object Window]	Function	function SVGPolygonElement() {\n    [native code]\n}
+SVGPolylineElement	[object Window]	Function	function SVGPolylineElement() {\n    [native code]\n}
+SVGPreserveAspectRatio	[object Window]	Function	function SVGPreserveAspectRatio() {\n    [native code]\n}
+SVGRadialGradientElement	[object Window]	Function	function SVGRadialGradientElement() {\n    [native code]\n}
+SVGRect	[object Window]	Function	function SVGRect() {\n    [native code]\n}
+SVGRectElement	[object Window]	Function	function SVGRectElement() {\n    [native code]\n}
+SVGRenderingIntent	[object Window]	Function	function SVGRenderingIntent() {\n    [native code]\n}
+SVGSVGElement	[object Window]	Function	function SVGSVGElement() {\n    [native code]\n}
+SVGScriptElement	[object Window]	Function	function SVGScriptElement() {\n    [native code]\n}
+SVGSetElement	[object Window]	Function	function SVGSetElement() {\n    [native code]\n}
+SVGStopElement	[object Window]	Function	function SVGStopElement() {\n    [native code]\n}
+SVGStringList	[object Window]	Function	function SVGStringList() {\n    [native code]\n}
+SVGStyleElement	[object Window]	Function	function SVGStyleElement() {\n    [native code]\n}
+SVGSwitchElement	[object Window]	Function	function SVGSwitchElement() {\n    [native code]\n}
+SVGSymbolElement	[object Window]	Function	function SVGSymbolElement() {\n    [native code]\n}
+SVGTRefElement	[object Window]	Function	function SVGTRefElement() {\n    [native code]\n}
+SVGTSpanElement	[object Window]	Function	function SVGTSpanElement() {\n    [native code]\n}
+SVGTextContentElement	[object Window]	Function	function SVGTextContentElement() {\n    [native code]\n}
+SVGTextElement	[object Window]	Function	function SVGTextElement() {\n    [native code]\n}
+SVGTextPathElement	[object Window]	Function	function SVGTextPathElement() {\n    [native code]\n}
+SVGTextPositioningElement	[object Window]	Function	function SVGTextPositioningElement() {\n    [native code]\n}
+SVGTitleElement	[object Window]	Function	function SVGTitleElement() {\n    [native code]\n}
+SVGTransform	[object Window]	Function	function SVGTransform() {\n    [native code]\n}
+SVGTransformList	[object Window]	Function	function SVGTransformList() {\n    [native code]\n}
+SVGUnitTypes	[object Window]	Function	function SVGUnitTypes() {\n    [native code]\n}
+SVGUseElement	[object Window]	Function	function SVGUseElement() {\n    [native code]\n}
+SVGVKernElement	[object Window]	Function	function SVGVKernElement() {\n    [native code]\n}
+SVGViewElement	[object Window]	Function	function SVGViewElement() {\n    [native code]\n}
+SVGViewSpec	[object Window]	Function	function SVGViewSpec() {\n    [native code]\n}
+SVGZoomEvent	[object Window]	Function	function SVGZoomEvent() {\n    [native code]\n}
+Worker	[object Window]	Function	function Worker() {\n    [native code]\n}
+DOMParser	[object Window]	Function	function DOMParser() {\n    [native code]\n}
+XMLHttpRequest	[object Window]	Function	function XMLHttpRequest() {\n    [native code]\n}
+XMLHttpRequestEventTarget	[object Window]	Function	function XMLHttpRequestEventTarget() {\n    [native code]\n}
+XMLHttpRequestProgressEvent	[object Window]	Function	function XMLHttpRequestProgressEvent() {\n    [native code]\n}
+XMLHttpRequestUpload	[object Window]	Function	function XMLHttpRequestUpload() {\n    [native code]\n}
+XMLSerializer	[object Window]	Function	function XMLSerializer() {\n    [native code]\n}
+XPathEvaluator	[object Window]	Function	function XPathEvaluator() {\n    [native code]\n}
+XPathExpression	[object Window]	Function	function XPathExpression() {\n    [native code]\n}
+XPathResult	[object Window]	Function	function XPathResult() {\n    [native code]\n}
+XSLTProcessor	[object Window]	Function	function XSLTProcessor() {\n    [native code]\n}
+close	[object Window]	Function	function close() {\n    [native code]\n}
+stop	[object Window]	Function	function stop() {\n    [native code]\n}
+focus	[object Window]	Function	function focus() {\n    [native code]\n}
+blur	[object Window]	Function	function blur() {\n    [native code]\n}
+open	[object Window]	Function	function open() {\n    [native code]\n}
+alert	[object Window]	Function	function alert() {\n    [native code]\n}
+confirm	[object Window]	Function	function confirm() {\n    [native code]\n}
+prompt	[object Window]	Function	function prompt() {\n    [native code]\n}
+print	[object Window]	Function	function print() {\n    [native code]\n}
+requestAnimationFrame	[object Window]	Function	function requestAnimationFrame() {\n    [native code]\n}
+cancelAnimationFrame	[object Window]	Function	function cancelAnimationFrame() {\n    [native code]\n}
+postMessage	[object Window]	Function	function postMessage() {\n    [native code]\n}
+captureEvents	[object Window]	Function	function captureEvents() {\n    [native code]\n}
+releaseEvents	[object Window]	Function	function releaseEvents() {\n    [native code]\n}
+getComputedStyle	[object Window]	Function	function getComputedStyle() {\n    [native code]\n}
+matchMedia	[object Window]	Function	function matchMedia() {\n    [native code]\n}
+moveTo	[object Window]	Function	function moveTo() {\n    [native code]\n}
+moveBy	[object Window]	Function	function moveBy() {\n    [native code]\n}
+resizeTo	[object Window]	Function	function resizeTo() {\n    [native code]\n}
+resizeBy	[object Window]	Function	function resizeBy() {\n    [native code]\n}
+scroll	[object Window]	Function	function scroll() {\n    [native code]\n}
+scrollTo	[object Window]	Function	function scrollTo() {\n    [native code]\n}
+scrollBy	[object Window]	Function	function scrollBy() {\n    [native code]\n}
+getSelection	[object Window]	Function	function getSelection() {\n    [native code]\n}
+find	[object Window]	Function	function find() {\n    [native code]\n}
+webkitRequestAnimationFrame	[object Window]	Function	function webkitRequestAnimationFrame() {\n    [native code]\n}
+webkitCancelAnimationFrame	[object Window]	Function	function webkitCancelAnimationFrame() {\n    [native code]\n}
+webkitCancelRequestAnimationFrame	[object Window]	Function	function webkitCancelRequestAnimationFrame() {\n    [native code]\n}
+getMatchedCSSRules	[object Window]	Function	function getMatchedCSSRules() {\n    [native code]\n}
+showModalDialog	[object Window]	undefined=09
+webkitConvertPointFromPageToNode	[object Window]	Function	function webkitConvertPointFromPageToNode() {\n    [native code]\n}
+webkitConvertPointFromNodeToPage	[object Window]	Function	function webkitConvertPointFromNodeToPage() {\n    [native code]\n}
+setTimeout	[object Window]	Function	function setTimeout() {\n    [native code]\n}
+clearTimeout	[object Window]	Function	function clearTimeout() {\n    [native code]\n}
+setInterval	[object Window]	Function	function setInterval() {\n    [native code]\n}
+clearInterval	[object Window]	Function	function clearInterval() {\n    [native code]\n}
+queueMicrotask	[object Window]	Function	function queueMicrotask() {\n    [native code]\n}
+atob	[object Window]	Function	function atob() {\n    [native code]\n}
+btoa	[object Window]	Function	function btoa() {\n    [native code]\n}
+isNaN	[object Window]	Function	function isNaN() {\n    [native code]\n}
+isFinite	[object Window]	Function	function isFinite() {\n    [native code]\n}
+escape	[object Window]	Function	function escape() {\n    [native code]\n}
+unescape	[object Window]	Function	function unescape() {\n    [native code]\n}
+decodeURI	[object Window]	Function	function decodeURI() {\n    [native code]\n}
+decodeURIComponent	[object Window]	Function	function decodeURIComponent() {\n    [native code]\n}
+encodeURI	[object Window]	Function	function encodeURI() {\n    [native code]\n}
+encodeURIComponent	[object Window]	Function	function encodeURIComponent() {\n    [native code]\n}
+eval	[object Window]	Function	function eval() {\n    [native code]\n}
+globalThis	[object Window]	Window	[object Window]
+parseInt	[object Window]	Function	function parseInt() {\n    [native code]\n}
+parseFloat	[object Window]	Function	function parseFloat() {\n    [native code]\n}
+ArrayBuffer	[object Window]	Function	function ArrayBuffer() {\n    [native code]\n}
+EvalError	[object Window]	Function	function EvalError() {\n    [native code]\n}
+RangeError	[object Window]	Function	function RangeError() {\n    [native code]\n}
+ReferenceError	[object Window]	Function	function ReferenceError() {\n    [native code]\n}
+SyntaxError	[object Window]	Function	function SyntaxError() {\n    [native code]\n}
+TypeError	[object Window]	Function	function TypeError() {\n    [native code]\n}
+URIError	[object Window]	Function	function URIError() {\n    [native code]\n}
+AggregateError	[object Window]	Function	function AggregateError() {\n    [native code]\n}
+Proxy	[object Window]	Function	function Proxy() {\n    [native code]\n}
+Reflect	[object Window]	Object	[object Reflect]
+JSON	[object Window]	Object	[object JSON]
+Math	[object Window]	Object	[object Math]
+console	[object Window]	Object	[object Console]
+Int8Array	[object Window]	Function	function Int8Array() {\n    [native code]\n}
+Int16Array	[object Window]	Function	function Int16Array() {\n    [native code]\n}
+Int32Array	[object Window]	Function	function Int32Array() {\n    [native code]\n}
+Uint8Array	[object Window]	Function	function Uint8Array() {\n    [native code]\n}
+Uint8ClampedArray	[object Window]	Function	function Uint8ClampedArray() {\n    [native code]\n}
+Uint16Array	[object Window]	Function	function Uint16Array() {\n    [native code]\n}
+Uint32Array	[object Window]	Function	function Uint32Array() {\n    [native code]\n}
+Float32Array	[object Window]	Function	function Float32Array() {\n    [native code]\n}
+Float64Array	[object Window]	Function	function Float64Array() {\n    [native code]\n}
+DataView	[object Window]	Function	function DataView() {\n    [native code]\n}
+Date	[object Window]	Function	function Date() {\n    [native code]\n}
+Error	[object Window]	Function	function Error() {\n    [native code]\n}
+Boolean	[object Window]	Function	function Boolean() {\n    [native code]\n}
+Map	[object Window]	Function	function Map() {\n    [native code]\n}
+Number	[object Window]	Function	function Number() {\n    [native code]\n}
+Set	[object Window]	Function	function Set() {\n    [native code]\n}
+Symbol	[object Window]	Function	function Symbol() {\n    [native code]\n}
+WeakMap	[object Window]	Function	function WeakMap() {\n    [native code]\n}
+WeakSet	[object Window]	Function	function WeakSet() {\n    [native code]\n}
+Object	[object Window]	Function	function Object() {\n    [native code]\n}
+Function	[object Window]	Function	function Function() {\n    [native code]\n}
+Array	[object Window]	Function	function Array() {\n    [native code]\n}
+RegExp	[object Window]	Function	function RegExp() {\n    [native code]\n}
+String	[object Window]	Function	function String() {\n    [native code]\n}
+Promise	[object Window]	Function	function Promise() {\n    [native code]\n}
+BigInt	[object Window]	Function	function BigInt() {\n    [native code]\n}
+Intl	[object Window]	Object	[object Object]
+WebAssembly	[object Window]	Object	[object WebAssembly]
+customElements	[object Window]	CustomElementRegistry	[object CustomElementRegistry]
+visualViewport	[object Window]	VisualViewport	[object VisualViewport]
+caches	[object Window]	CacheStorage	[object CacheStorage]
+isSecureContext	[object Window]	Boolean	true
+Cache	[object Window]	Function	function Cache() {\n    [native code]\n}
+CacheStorage	[object Window]	Function	function CacheStorage() {\n    [native code]\n}
+FileSystem	[object Window]	Function	function FileSystem() {\n    [native code]\n}
+FileSystemDirectoryEntry	[object Window]	Function	function FileSystemDirectoryEntry() {\n    [native code]\n}
+FileSystemDirectoryReader	[object Window]	Function	function FileSystemDirectoryReader() {\n    [native code]\n}
+FileSystemEntry	[object Window]	Function	function FileSystemEntry() {\n    [native code]\n}
+FileSystemFileEntry	[object Window]	Function	function FileSystemFileEntry() {\n    [native code]\n}
+Headers	[object Window]	Function	function Headers() {\n    [native code]\n}
+Request	[object Window]	Function	function Request() {\n    [native code]\n}
+Response	[object Window]	Function	function Response() {\n    [native code]\n}
+MediaSource	[object Window]	Function	function MediaSource() {\n    [native code]\n}
+webkitAudioPannerNode	[object Window]	Function	function webkitAudioPannerNode() {\n    [native code]\n}
+webkitOfflineAudioContext	[object Window]	Function	function webkitOfflineAudioContext() {\n    [native code]\n}
+WebSocket	[object Window]	Function	function WebSocket() {\n    [native code]\n}
+AnimationEffect	[object Window]	Function	function AnimationEffect() {\n    [native code]\n}
+AnimationPlaybackEvent	[object Window]	Function	function AnimationPlaybackEvent() {\n    [native code]\n}
+AnimationTimeline	[object Window]	Function	function AnimationTimeline() {\n    [native code]\n}
+CSSAnimation	[object Window]	Function	function CSSAnimation() {\n    [native code]\n}
+CSSTransition	[object Window]	Function	function CSSTransition() {\n    [native code]\n}
+DocumentTimeline	[object Window]	Function	function DocumentTimeline() {\n    [native code]\n}
+KeyframeEffect	[object Window]	Function	function KeyframeEffect() {\n    [native code]\n}
+Animation	[object Window]	Function	function Animation() {\n    [native code]\n}
+CustomElementRegistry	[object Window]	Function	function CustomElementRegistry() {\n    [native code]\n}
+DataTransferItem	[object Window]	Function	function DataTransferItem() {\n    [native code]\n}
+DataTransferItemList	[object Window]	Function	function DataTransferItemList() {\n    [native code]\n}
+InputEvent	[object Window]	Function	function InputEvent() {\n    [native code]\n}
+PointerEvent	[object Window]	Function	function PointerEvent() {\n    [native code]\n}
+ShadowRoot	[object Window]	Function	function ShadowRoot() {\n    [native code]\n}
+StaticRange	[object Window]	Function	function StaticRange() {\n    [native code]\n}
+HTMLDataListElement	[object Window]	Function	function HTMLDataListElement() {\n    [native code]\n}
+HTMLSlotElement	[object Window]	Function	function HTMLSlotElement() {\n    [native code]\n}
+IntersectionObserver	[object Window]	Function	function IntersectionObserver() {\n    [native code]\n}
+IntersectionObserverEntry	[object Window]	Function	function IntersectionObserverEntry() {\n    [native code]\n}
+PerformanceEntry	[object Window]	Function	function PerformanceEntry() {\n    [native code]\n}
+PerformanceMark	[object Window]	Function	function PerformanceMark() {\n    [native code]\n}
+PerformanceMeasure	[object Window]	Function	function PerformanceMeasure() {\n    [native code]\n}
+PerformanceObserver	[object Window]	Function	function PerformanceObserver() {\n    [native code]\n}
+PerformanceObserverEntryList	[object Window]	Function	function PerformanceObserverEntryList() {\n    [native code]\n}
+PerformanceResourceTiming	[object Window]	Function	function PerformanceResourceTiming() {\n    [native code]\n}
+ResizeObserver	[object Window]	Function	function ResizeObserver() {\n    [native code]\n}
+ResizeObserverEntry	[object Window]	Function	function ResizeObserverEntry() {\n    [native code]\n}
+VisualViewport	[object Window]	Function	function VisualViewport() {\n    [native code]\n}
+ServiceWorker	[object Window]	Function	function ServiceWorker() {\n    [native code]\n}
+ServiceWorkerContainer	[object Window]	Function	function ServiceWorkerContainer() {\n    [native code]\n}
+ServiceWorkerRegistration	[object Window]	Function	function ServiceWorkerRegistration() {\n    [native code]\n}
+fetch	[object Window]	Function	function fetch() {\n    [native code]\n}
+constructor	[object Window]	Function	function Window() {\n    [native code]\n}
+Symbol(Symbol.toStringTag)	[object Window]	undefined=09
+addEventListener	[object EventTarget]	Function	function addEventListener() {\n    [native code]\n}
+removeEventListener	[object EventTarget]	Function	function removeEventListener() {\n    [native code]\n}
+dispatchEvent	[object EventTarget]	Function	function dispatchEvent() {\n    [native code]\n}</pre>
