@@ -1,3 +1,4 @@
+ApplicationCache
 Audio
 BarProp
 CSS2Properties
@@ -12,6 +13,8 @@ IDBFileHandle
 Image
 OfflineResourceList
 Option
+RGBColor
+SVGDocument
 SVGMarkerElement
 SVGPathSegList
 SVGPointList

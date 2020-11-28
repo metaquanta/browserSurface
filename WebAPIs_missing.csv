@@ -18,3 +18,6 @@ CSS2Properties	https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclarat
 CSSMozDocumentRule	https://developer.mozilla.org/en-US/docs/Web/API/CSSRuleList
 OfflineResourceList	https://developer.mozilla.org/en-US/docs/Web/API/Window/applicationCache	true
 WebKitMutationObserver	https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver	true
+RGBColor	https://developer.mozilla.org/en-US/docs/Web/API/CSSPrimitiveValue/getRGBColorValue
+ApplicationCache	https://developer.mozilla.org/en-US/docs/Web/API/Window/applicationCache	true
+SVGDocument	https://developer.mozilla.org/en-US/docs/Web/SVG/Scripting	true
