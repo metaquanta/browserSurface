@@ -2,3 +2,4 @@
 make indexes
 cat [TLGBDEWS]*.index | sort | uniq > .tmp.index
 cat global*.index | sort | uniq | grep -Fxv -f .tmp.index
+rm .tmp.index

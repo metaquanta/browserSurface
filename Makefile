@@ -7,3 +7,4 @@ indexes: $(addsuffix .index, $(basename $(wildcard *.csv)))
 
 clean:
 	rm *.index
+	rm .tmp.*
